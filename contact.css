@@ -1,0 +1,29 @@
+.contactbox {
+    padding: 48px 0px 68px 0px ;
+}
+.contact__input {
+    width: 100%;
+    padding:  24px 8px;
+    border: none;
+    border-bottom: 1px solid #757575;
+    margin-bottom: 8px ;
+    font-size: 15px;
+}
+.contact__title {
+    font-size: 36px;
+
+}
+.contact__blue {
+    font-weight: bolder;
+    color: #607d8b;
+    font-size: 20px;
+}
+.contact__button {
+    padding: 8px 16px;
+    margin-top: 16px;
+    border: none;
+    font-size: 15px;
+}
+.contact__button:hover {
+    background-color: #ccc;
+}

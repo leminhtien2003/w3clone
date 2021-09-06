@@ -1,0 +1,36 @@
+.mid {
+    text-align: center;
+}
+.inline {
+    display: inline;
+}
+.spacetop{
+    margin: 10px 0px;
+}
+
+.leterspace {
+    letter-spacing: 5px;
+}
+.blur {
+    opacity: 0.75;
+}
+.aboutbox {
+    padding: 64px 0px 84px 0px;
+    border-bottom: 1px solid #eee;
+}
+.about__picture {
+    width: 100%;
+}
+.box {
+    padding: 12px 24px !important;
+}
+
+.abouttext {
+    font-size: 36px;
+}
+.abouttext2,.abouttext3,.abouttext4 {
+    font-size:18px;
+}
+.abouttext4 {
+    color: #757575;
+}

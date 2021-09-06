@@ -1,0 +1,18 @@
+.spacetop2 {
+    margin: 15px 0px;
+}
+
+
+.menu__picture {
+    width: 100%;
+} 
+.menubox {
+    border-bottom: 1px solid #eee;
+    padding: 48px 0px 68px 0px;
+}
+.menu__title{ 
+    font-size: 20px;
+}
+.menu__title--small {
+    color: #757575;
+}
